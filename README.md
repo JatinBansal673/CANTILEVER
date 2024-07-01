@@ -9,3 +9,7 @@ Technologies used: C++, File I/O for data storage, Standard Tempalte Libraries.<
 <b>Project-2 (Social Networking System)</b>
 <p>Created a Simple Social Network application that allows users to create profiles, add friends, and postv messages. This project involves creating a console-based application with a focus on user interaction and data management.<br>
 Technologies used: C++, File I/O for data storage, Standard Template Libraries.</p>
+
+<b>Project-3 (Number Guessing Game)</b>
+<p>Create a number guessing game where the computer generates a random number and the user tries to guess it.<br>
+Technologies used: C++, Standard Library, Time functions,I/O.</p>
