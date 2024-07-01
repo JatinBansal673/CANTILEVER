@@ -1,3 +1,0 @@
-1,Campus,Shoe,800,30
-2,Adidas,Shoe,1400,20
-3,Puma,Shoe,2000,10
