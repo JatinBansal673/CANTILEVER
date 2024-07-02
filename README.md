@@ -11,5 +11,5 @@ Technologies used: C++, File I/O for data storage, Standard Tempalte Libraries.<
 Technologies used: C++, File I/O for data storage, Standard Template Libraries.</p>
 
 <b>Project-3 (Number Guessing Game)</b>
-<p>Create a number guessing game where the computer generates a random number and the user tries to guess it.<br>
+<p>Built a number guessing game where the computer generates a random number and the user tries to guess it.<br>
 Technologies used: C++, Standard Library, Time functions,I/O.</p>
